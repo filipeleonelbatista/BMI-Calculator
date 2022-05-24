@@ -19,6 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)s
 - [Expo](https://expo.io/)
 
+## Como baixar o projeto
+
+(Clique aqui)[./.github/imc-app.apk]
+
 ---
 
 <h3 align="center" >Vamos nos conectar 😉</h3>
