@@ -16,12 +16,12 @@ Projeto desenvolvido para calcular o IMC
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React Native](https://facebook.github.io/react-native/)s
+- [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
 ## Como baixar o projeto
 
-(Clique aqui)[./.github/imc-app.apk]
+[Clique aqui](./.github/imc-app.apk)
 
 ---
 
